@@ -4,7 +4,7 @@
  App for notifying Udacity reviewers about new assigned questions 
 
 Quick tool I've developed that helped me monitor my Reviewer dashboard for any new assigned questions (before Udacity implemented email notification of new assignments) 
-so i published it to help any fellow reviewer who might missed questions (as questions are time limited before reassigned) 
+so i published it to help any fellow reviewer who might missed questions (as questions are time limited before reassigned) due to delayed email client synchronization may be. 
 
 **Requirements**
 
