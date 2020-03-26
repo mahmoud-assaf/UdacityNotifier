@@ -1,3 +1,5 @@
+## This app is not official app of Udacity by any means 
+
 # UdacityNotifier
  App for notifying Udacity reviewers about new assigned questions 
 
