@@ -28,7 +28,7 @@ Simply the foreground service opens dashboard page inside webview(0X0 dimensions
 
 -Login in to dashboard (Reviews page), and make sure your dashboard loaded successfully
  
--Activate Service. 
+-Activate Service (only when you are in queue) . 
 
 -Service will be run as foreground service to survive android kill. 
 
