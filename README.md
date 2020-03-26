@@ -22,7 +22,7 @@ Simply the foreground service opens dashboard page inside webview(0X0 dimensions
 
 **How to use**
 
--Open app
+-[Download](https://raw.githubusercontent.com/mahmoud-assaf/UdacityNotifier/master/UdacityNotifier-release.apk) and Open the attached app. 
 
 -Grant Draw over other apps (to display the invisible webview window)
 
